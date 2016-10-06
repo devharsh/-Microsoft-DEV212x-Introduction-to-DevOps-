@@ -1,0 +1,81 @@
+Question 1
+(10/10 points)
+
+Which two of the following statements about DevOps are correct?
+
+-> The cultural practices of DevOps are predictive of organizational performance.
+-> In a DevOps practice, people, process, and tools all work together to enable continuous delivery of value to end users.
+
+Explanation
+
+DevOps applies to all the team members, including developers, testers, operations, business analysts, etc., in an organization. So it is incorrect to say "DevOps only applies to the development and operations team in an organization."
+
+There is no standard or specification of DevOps. So it is incorrect to say "Your team needs to follow a DevOps standard or specification in order to achieve the best results.".
+
+The other two options are correct.
+
+---
+
+Question 2
+(10/10 points)
+
+According to John Allspaw, frequent and small deployments to production tend to have what impact?
+
+-> Reduce the risk of the release.
+
+Explanation
+
+Small releases have fewer changes (to code, configuration, and environment) and they are less likely to create problems than larger releases that include more substantial changes. So the correct answer is "Reduce the risk of release".
+
+---
+
+Question 3
+(10/10 points)
+
+You are a software engineer in your organization.
+
+Your team uses traditional software development process and is interested in adopting DevOps.
+
+Which three of the following practices should your organization start doing in order to embrace DevOps?
+
+-> Try to minimize technical debt and keep your codebase as clean as possible.
+-> Measure how customers are using your software and engage actively with customers to ensure that teams are building the right things.
+-> Make releasing code into production one of the highest priorities for your team.
+
+Explanation
+
+In order to embrace DevOps, you need to continuously integrate your code to the main branch throughout the process of software development. So it is incorrect to "work on your branch separately and merge your code to the Master branch only right before production."
+
+Deployment automation and test automation are important practices for DevOps. So it is incorrect to say "Your operations team should manually deploy packages to the development and test environments."
+
+The other three options are correct.
+
+---
+
+Question 4
+(10/10 points)
+
+Which three of the following practices apply to DevOps?
+
+-> Continuous Integration
+-> Test Automation
+-> Deployment Automation
+
+Explanation
+
+Continuous Integration, Test Automation, and Deployment Automation are all part of DevOps as it is commonly implemented. Waterfall Requirements Analysis and Budgeting are not necessarily parts of DevOps, although they may be present in organizations that implement DevOps.
+
+---
+
+Question 5
+(10/10 points)
+
+What benefits can DevOps bring to your team? Choose the three answers that best apply.
+
+-> Faster time to market.
+-> Delivering small and incremental values to your customers.
+-> Better team collaboration and communication.
+
+Explanation
+
+DevOps can lead to better team collaboration and communication, faster time to market and it helps you deliver small and incremental values to your customers. DevOps doesn't mean more employees working on developing and deploying your software.
